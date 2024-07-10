@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I'm @ThatManWhoIsHappy (That man who is happy)
+- 👋 Hi, I'm @ThatManWhoIsHappy (That man who is happy!)
 - 👀         interested in programming even though I have studied Econ and Finance
 - 🌱         currently learning Python
 - 💞️ I’m looking to collaborate after I finish the course!
