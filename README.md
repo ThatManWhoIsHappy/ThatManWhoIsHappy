@@ -3,7 +3,7 @@
 - 👋 Hi, I'm @ThatManWhoIsHappy (That man who is happy)
 - 👀         interested in programming even though I have studied Econ and Finance
 - 🌱         currently learning Python
-- - 💞️ I’m looking to collaborate soon
+- 💞️ I’m looking to collaborate soon
 - 📫 How to reach me: Still working on it
 - ⚡ Fun fact: Econ is abbreviation for Economics
 
