@@ -1,11 +1,14 @@
 
 
 - 👋 Hi, I'm @ThatManWhoIsHappy (That man who is happy!)
-- 👀         interested in programming even though I have studied Econ and Finance
-- 🌱         currently learning Python
-- 💞️ I’m looking to collaborate after I finish the course!
-- 📫 How to reach me: Still working on it
-- ⚡ Fun fact: Econ is abbreviation for Economics
+- 👀 Despite my Econ and Finance background, I've caught the programming bug!
+- 🌱 Currently Diving into Python
+- 💞️ Of course, I’m ready to team up once I ace the course!"
+- 📫 How to reach me: Still figuring that out!
+- ⚡ Fun fact: Econ is short for Economics—mind blown, right?
+
+
+
 
 
 
